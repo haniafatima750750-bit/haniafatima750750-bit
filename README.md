@@ -41,7 +41,7 @@ I am a driven student and an intermediate web developer passionate about buildin
 ---
 
 - 📫 **Contact:** Reach out via email at [haniafatima750750@gmail.com](mailto:haniafatima750750@gmail.com)
-- 💼 **LinkedIn:** Connect with me on [LinkedIn](www.linkedin.com/in/hania-fatima-691a473a9)
+- 💼 **LinkedIn:** Connect with me on [www.linkedin.com/in/hania-fatima-691a473a9](www.linkedin.com/in/hania-fatima-691a473a9)
 
 
 
