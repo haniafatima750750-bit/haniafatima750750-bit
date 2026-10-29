@@ -40,6 +40,9 @@ I am a driven student and an intermediate web developer passionate about buildin
 
 ---
 
+- 📫 **Contact:** Reach out via email at [haniafatima750750@gmail.com](mailto:haniafatima750750@gmail.com)
+
+
 ### 📊 GitHub Insights
 
 <p align="left">
