@@ -3,6 +3,23 @@
 I am currently a student who loves to learn new things. I'm always looking for ways to expand my knowledge, and here on GitHub, I am focused on learning and building new skills! Welcome to my digital space.
 
 ---
+### 🛠️ My Skills & Tech Stack
+
+💡 **Skill Level:** Intermediate Web Developer
+
+💻 **Web Development & Computer Science:**
+- **Languages:** C, JavaScript, HTML5, CSS3
+- **CS50** (Computer Science foundations, problem-solving, and algorithmic thinking)
+- Web Designing (Creating clean and functional layouts)
+
+⚙️ **Tools & Platforms:**
+- VS Code (Preferred Code Editor)
+- Git & GitHub (Version Control)
+
+🎨 **Other Skills:**
+- Graphic Design foundations
+
+---
 
 
 <!--
