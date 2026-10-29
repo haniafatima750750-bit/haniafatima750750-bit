@@ -43,11 +43,7 @@ I am a driven student and an intermediate web developer passionate about buildin
 - 📫 **Contact:** Reach out via email at [haniafatima750750@gmail.com](mailto:haniafatima750750@gmail.com)
 - 💼 **LinkedIn:** Connect with me on [LinkedIn](https://linkedin.com)
 
-### 📂 Featured Projects
 
-- 💻 **CS50x Final Project**
-  - *Description:* A custom software application built as the capstone project for Harvard's CS50x course.
-  - *Demonstration:* [Watch the Project Video Demo](https://youtu.be/W6CB1HdXRy0)
 
 
 <p align="center">
