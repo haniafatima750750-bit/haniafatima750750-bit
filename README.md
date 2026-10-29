@@ -1,38 +1,54 @@
 # Hi there, I'm Hania Fatima 👋
 
-I am currently a student who loves to learn new things. I'm always looking for ways to expand my knowledge, and here on GitHub, I am focused on learning and building new skills! Welcome to my digital space.
-
----
-### 🛠️ My Skills & Tech Stack
-
-💡 **Skill Level:** Intermediate Web Developer
-
-💻 **Web Development & Computer Science:**
-- **Languages:** C, JavaScript, HTML5, CSS3
-- **CS50** (Computer Science foundations, problem-solving, and algorithmic thinking)
-- Web Designing (Creating clean and functional layouts)
-
-⚙️ **Tools & Platforms:**
-- VS Code (Preferred Code Editor)
-- Git & GitHub (Version Control)
-
-🎨 **Other Skills:**
-- Graphic Design foundations
+I am a driven student and an intermediate web developer passionate about building clean interfaces, solving complex logic problems, and mastering modern technologies. Welcome to my profile!
 
 ---
 
+### 🚀 About Me
 
-<!--
-**haniafatima750750-bit/haniafatima750750-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 **Focus:** Bridging the gap between software development and functional design.
+- 🎓 **Education:** Actively expanding my computer science foundations and technical skills.
+- 💡 **Mindset:** Enthusiastic about continuous learning, exploration, and problem-solving.
+- 🚀 **Current Goal:** Elevating my web design and development capabilities through real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills & Tools
+
+**Core Programming & Web Dev**
+- **Languages:** C, JavaScript (ES6+), HTML5, CSS3
+- **Foundations:** Algorithmic thinking, data structures, low-level memory management
+- **Design:** Web layout design, user interface (UI) structure, graphic design principles
+
+**Tools & Platforms**
+- **Editor:** Visual Studio Code
+- **Version Control:** Git, GitHub
+
+---
+
+### 📜 Professional Certifications
+
+- 🎓 **CS50x: Introduction to Computer Science**
+  - *Issued by:* Harvard University / edX
+  - *Details:* Rigorous curriculum covering C, Python, SQL, algorithms, and web development.
+  - *Verification:* [Verify Certificate](https://harvard.edu)
+
+- 🤖 **Emerging Tech Training Certificate**
+  - *Issued by:* LearnOBots & Federal Directorate of Education
+  - *Project:* *Disruptive Education – Transforming Schools into Foundries of Emerging Tech*
+  - *Core Domains:* Python Programming, Web & Cloud Development, AI & Prompt Engineering, and Mobile App Development.
+
+---
+
+### 📊 GitHub Insights
+
+<p align="left">
+  <img src="https://vercel.app" alt="Hania's GitHub Stats" width="400">
+  <img src="https://vercel.app" alt="Hania's Top Languages" width="300">
+</p>
+
+---
+
+<p align="center">
+  <i>Thank you for visiting! Feel free to explore my repositories or connect.</i>
+</p>
