@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there, I'm Hania Fatima 👋
+
+I am currently a student who loves to learn new things. I'm always looking for ways to expand my knowledge, and here on GitHub, I am focused on learning and building new skills! Welcome to my digital space.
+
+---
+
 
 <!--
 **haniafatima750750-bit/haniafatima750750-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
