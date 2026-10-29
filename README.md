@@ -43,17 +43,12 @@ I am a driven student and an intermediate web developer passionate about buildin
 - 📫 **Contact:** Reach out via email at [haniafatima750750@gmail.com](mailto:haniafatima750750@gmail.com)
 - 💼 **LinkedIn:** Connect with me on [LinkedIn](https://linkedin.com)
 
+### 📂 Featured Projects
 
+- 💻 **CS50x Final Project**
+  - *Description:* A custom software application built as the capstone project for Harvard's CS50x course.
+  - *Demonstration:* [Watch the Project Video Demo](https://youtu.be/W6CB1HdXRy0)
 
-
-### 📊 GitHub Insights
-
-<p align="left">
-  <img src="https://vercel.app" alt="Hania's GitHub Stats" width="400">
-  <img src="https://vercel.app" alt="Hania's Top Languages" width="300">
-</p>
-
----
 
 <p align="center">
   <i>Thank you for visiting! Feel free to explore my repositories or connect.</i>
